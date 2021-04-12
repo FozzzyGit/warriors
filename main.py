@@ -20,3 +20,8 @@ if first.health > 0:
     print("FIRST WARRIOR WIN")
 else:
     print("SECOND WARRIOR WIN")
+class Archer():
+    attack_range=75
+    damage=12
+    def shot(self):
+        pass
